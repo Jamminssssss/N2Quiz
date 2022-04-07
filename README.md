@@ -13,12 +13,6 @@
 
 https://www.youtube.com/watch?v=mFT21IzGW1w
 
-<img width="270" alt="스크린샷 2022-04-07 오후 8 36 16" src="https://user-images.githubusercontent.com/91593937/162190195-c91b15e8-69c9-4361-bd39-fb7cc87bcb03.png">
-
-<img width="267" alt="스크린샷 2022-04-07 오후 8 35 53" src="https://user-images.githubusercontent.com/91593937/162190183-e0cb056a-b85f-491e-b5f0-a5ce9136ddec.png">
-
-
-
 🟢 제작목적 및 개인적인 개선사항
 
 내가 할줄 알고 유일하게 일반인보다 잘한다고 생각하는 일본어를 활용해서 남들에게 도움이되느 서비스를 제작하고 싶었습니다.
@@ -28,5 +22,7 @@ https://www.youtube.com/watch?v=mFT21IzGW1w
 다음에도 일본어 퀴즈앱을 만들건데 완전히 처음부터 끝까지 스스로 만들수는 없겠지만 클론코딩을 하더라도 그것과 완전히 똑같이 만들기보다는 조금씩 내가 원하는걸 추가하거나 빼는 작업을 하고 
 
 왜 이렇게 코드르 짜놓았는지 최대하 분석하면서 공부르 해볼 생각입니다.
+
+<img width="267" alt="스크린샷 2022-04-07 오후 8 35 53" src="https://user-images.githubusercontent.com/91593937/162190654-56c5dd21-b685-4de9-8449-9d43f1ff6507.png"><img width="270" alt="스크린샷 2022-04-07 오후 8 36 16" src="https://user-images.githubusercontent.com/91593937/162190668-cbbb6aff-bd20-443f-bdd6-cd80c886e0f3.png">
 
 
